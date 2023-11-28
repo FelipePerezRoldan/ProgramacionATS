@@ -1,0 +1,1 @@
+Dividir los ejercicios del curos en 3 bloques, cada bloque será fusionado como si fuse una versión del proyecto.
