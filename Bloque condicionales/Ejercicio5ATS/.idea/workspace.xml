@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2afb9c64-a486-482a-84e8-0876066c2951" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ejercicio5ATS.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Enunciado.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Bloque operadore/Ejercicio4ATS/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bloque operadore/Ejercicio4ATS/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Bloque operadore/Ejercicio4ATS/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bloque operadore/Ejercicio4ATS/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="2afb9c64-a486-482a-84e8-0876066c2951" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
