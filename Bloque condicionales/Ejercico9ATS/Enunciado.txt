@@ -1,0 +1,1 @@
+Pedir una nota de cero a diez y mostrarla de la forma: Insuficiente, suficiente, bien, notable y sobresaliente.
