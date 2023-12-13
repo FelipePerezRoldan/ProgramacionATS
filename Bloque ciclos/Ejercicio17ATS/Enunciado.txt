@@ -1,0 +1,2 @@
+Pedir 10 sueldos. 
+Sumarlos y ver cuantos son mayores a $1000.
