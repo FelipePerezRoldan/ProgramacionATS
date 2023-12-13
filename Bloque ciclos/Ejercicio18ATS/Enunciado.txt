@@ -1,0 +1,2 @@
+Pide un número del 0-10.
+Entrega la tabla de multiplicar respectiva.
