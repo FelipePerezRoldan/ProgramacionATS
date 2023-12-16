@@ -1,0 +1,10 @@
+Una empresa se dedica a la venta de desinfectantes, necesita un programa para gestionar las facturas. 
+En cada factura figura: el código del artículo, la cantidad vendida en litro y uno de los siguientes precios 
+por litro:
+
+0,6 $/l
+3 $/l
+1,25 euros/l
+ 
+De 5 facturas que serán introducidas se piden: facturación total, cantidad de litros vendidos del artículo 1,
+y la cantidad de facturas mayores a $600.

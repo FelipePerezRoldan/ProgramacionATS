@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="411e46e7-195f-42dd-89fb-9db05c34410c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../Ejercicio18ATS/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Ejercicio18ATS/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ejercicio18ATS/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Ejercicio18ATS/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="411e46e7-195f-42dd-89fb-9db05c34410c" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,7 +25,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "featureEjercicio19CursoProgramacionATSWP"
+    "git-widget-placeholder": "featureEjercicio20CursoProgramacionATSWP"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
