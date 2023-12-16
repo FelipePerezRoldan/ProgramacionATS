@@ -1,0 +1,1 @@
+Pedir 5 calificaciones de alumbos y decir al final si hay algún suspenso.
