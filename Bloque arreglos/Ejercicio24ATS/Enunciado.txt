@@ -1,0 +1,1 @@
+Leer los datos correspondientes a dos tablas de 13 elementos númericos, y mezclarlos en una tercera de la forma: 3 de la tabla A, 3 de la B, otros 3 de A, otrs de la B. etc.
