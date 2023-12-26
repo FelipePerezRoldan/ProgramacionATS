@@ -1,0 +1,2 @@
+Leer dos series de 10 entero que estarán ordenados crecientemente.
+Fusionar las dos tablas en una tercera de forma que sigan ordenados.
