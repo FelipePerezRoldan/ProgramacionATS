@@ -1,0 +1,1 @@
+Crear una matriz de 7x7 y rellenarla de forma que los elementos de la diagonal principal sea 1 y el resto 0.
