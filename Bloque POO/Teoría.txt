@@ -1,0 +1,41 @@
+La Programación Orientada a Objetos (POO) es una forma especial de programar que se denomina paradigma.
+
+Los objetos son la base principal de este paradigma, los cuales están compuestos por dos características principales: sus atributos intrínsecos o inherentes y las acciones que los objetos llevan a cabo.
+
+Las clases, por su parte, son conjuntos de objetos con características similares. Usualmente, su nombre es en singular y va en mayúscula.
+
+Para crear un objeto se utiliza el nombre de la clase, el nombre que se le desea asignar al objeto, la palabra reservada "new" y el método constructor de la clase por el cual se desea inicializar el objeto.
+
+Parámetros y argumentos:
+
+- Un parámetro es una declaración de dato.
+- Un argumento es un dato que se envía.
+
+Método Constructor:
+
+El método constructor es el método especial de la clase que se nombra igual a la clase e inicializa las propiedades o atributos globales de la clase; este puede ser sobrecargado para inicializar de maneras diferentes según los parámetros involucrados.
+
+Modificadores de acceso:
+
+El por defecto entre paquetes es privado y en el mismo paquete es público.
+
+Encapsulamiento:
+
+Se encarga de ocultar los métodos mediante accesos para poder definir cómo se accederá y de qué manera.
+
+Métodos accesores:
+
+- Getters es pedir.
+- Setters es establecer.
+
+Constantes:
+
+Final y debe ir en mayúscula sostenida.
+
+Estático:
+
+Los elementos estáticos de una clase son iguales para todas las clases; si este se cambia, cambia en todas las clases. La clase es dueña del atributo o método y no el objeto.
+
+Diagrama de clase UML:
+
+Es un diagrama que ayuda a ver la composición de las clases, incluyendo nombre, atributos y métodos. Se especifica el tipo de dato, los parámetros, los argumentos, y a su vez, sus accesos.
