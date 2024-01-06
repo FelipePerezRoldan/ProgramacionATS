@@ -1,0 +1,2 @@
+Construir un programa que permita dirigir el movimiento de un objeto dentro de un tablero y acrualice su posición dentro del mismo. Los movimientos posibles son Arriba, Abajo, Izquierda y Derecha.
+Tras cada movimiento el programa mostrara la nueva dirección elegida y las cordenadas del objeto dentro del tablero.
