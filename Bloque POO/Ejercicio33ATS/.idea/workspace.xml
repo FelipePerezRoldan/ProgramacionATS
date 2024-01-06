@@ -7,10 +7,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c63553ed-f7ce-448a-ae28-0edc07e0ef70" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../../Bloque matrices/Ejercicio32ATS/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bloque matrices/Ejercicio32ATS/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Bloque matrices/Ejercicio32ATS/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bloque matrices/Ejercicio32ATS/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="c63553ed-f7ce-448a-ae28-0edc07e0ef70" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,7 +35,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "develop",
+    "git-widget-placeholder": "featureEjercicio34CursoProgramacionATSWP",
     "last_opened_file_path": "C:/Users/wolff/OneDrive/Escritorio/Ejercicios programación ATS/Bloque POO/Ejercicio33ATS",
     "run.code.analysis.last.selected.profile": "pProject Default",
     "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle"

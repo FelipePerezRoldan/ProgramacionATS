@@ -8,8 +8,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8ff06760-e28a-4436-a581-293e51c6d806" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bloque POO/Ejercicio34ATS/src/Atleta.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bloque POO/Ejercicio33ATS/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bloque POO/Ejercicio33ATS/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ejercicio33ATS/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ejercicio33ATS/.idea/workspace.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,7 +34,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "develop",
+    "git-widget-placeholder": "featureEjercicio34CursoProgramacionATSWP",
     "last_opened_file_path": "C:/Users/wolff/OneDrive/Escritorio/Ejercicio33ATS",
     "run.code.analysis.last.selected.profile": "pProject Default"
   }
