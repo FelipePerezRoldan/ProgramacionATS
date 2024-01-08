@@ -8,7 +8,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8ff06760-e28a-4436-a581-293e51c6d806" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ejercicio35ATS/src/IOperacionCompleja.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ejercicio35ATS/src/OperacionCompleja.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bloque POO/Ejercicio34ATS/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bloque POO/Ejercicio34ATS/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -31,7 +33,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "develop",
+    "git-widget-placeholder": "featureEjercicio35CursoProgramacionATSWP",
     "last_opened_file_path": "C:/Users/wolff/OneDrive/Escritorio/Ejercicio33ATS",
     "run.code.analysis.last.selected.profile": "pProject Default"
   }
